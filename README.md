@@ -1,4 +1,7 @@
-# Data Science
-##Core Skills : Python, R, SQL, NoSQL, Data Visualization, Data Management, Data Analysis, NLP, Machine Learning.
-### 1. Data Management & Database Systems:
-- **MySQL**, **MongoDB**, **PostgreSQL**, **OracleDatabase**
+# Data Scientist / Data Analyst
+### Core Skills
+#### 1. Data Management & Database Systems:
+- MySQL, MongoDB, PostgreSQL, OracleDatabase
+#### 2. Programming Languages:
+- **Python**, **R**, **XML**, **C**, **Java**, **HTML**, **CSS**
+
